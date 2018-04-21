@@ -1,7 +1,6 @@
 # Identifying Dog and Cats using CNN
 
-This is a tensorflow image classifier built based a 4 part tutorial by Sentdex on Youtube. I built the model with a layer
-
+This is a tensorflow image classifier built based a 4 part tutorial by Sentdex on Youtube.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
