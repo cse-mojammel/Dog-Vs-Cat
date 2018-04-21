@@ -1,4 +1,4 @@
-# Using Convolutional Neural Network to Identify Dogs vs Cats
+# Identifying Dog and Cats using CNN
 
 This is a tensorflow image classifier built based a 4 part tutorial by Sentdex on Youtube. I built the model with a layer
 
