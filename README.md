@@ -57,5 +57,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-Thanks to Sentdex for the tutorial, Youtube (https://youtu.be/gT4F3HGYXf4)
+Thanks to Sentdex for the tutorial, [Youtube](https://youtu.be/gT4F3HGYXf4)
 
